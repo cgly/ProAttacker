@@ -6,7 +6,8 @@ This is the code of the paper [Prompt Makes mask Language Models Better Adversar
 
 In summary, we have validated that **prompts** can be used to guide **masked language models** in generating high-quality **substitute words** in **word-level text adversarial attacks**.
 
-![image](https://github.com/cgly/ProAttacker/blob/main/proattacker.png)
+ <img src="https://github.com/cgly/ProAttacker/blob/main/proattacker.png" width="400" />
+
 --------------
 ```
 # run ProAttacker：
